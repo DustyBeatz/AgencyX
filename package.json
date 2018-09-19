@@ -1,0 +1,22 @@
+{
+  "name": "agencyx",
+  "version": "1.0.0",
+  "description": "Agency X Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DustyBeatz/AgencyX.git"
+  },
+  "author": "Jay Vernon, Reece Divine",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DustyBeatz/AgencyX/issues"
+  },
+  "homepage": "https://github.com/DustyBeatz/AgencyX#readme",
+  "dependencies": {
+    "gulp-sass": "^4.0.1"
+  }
+}
