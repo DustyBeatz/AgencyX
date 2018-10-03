@@ -18,5 +18,8 @@
   "homepage": "https://github.com/DustyBeatz/AgencyX#readme",
   "dependencies": {
     "gulp-sass": "^4.0.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
   }
 }
