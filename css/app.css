@@ -1,0 +1,54 @@
+
+#container
+{
+	margin: 0 auto;
+	background-color: #f2f4f1;
+}
+
+.portContentFill
+{
+	background-color: white;
+}
+
+#headerBlue
+{
+	height: 55px;
+	background-color: #171C25;
+}
+
+#headerLogo
+{
+	display: block; /*need to do this to center*/
+	max-width: 100px;
+	margin: 0 auto;
+	margin-top: 10px;
+}
+
+.headerRed
+{
+	height: 13px;
+	background-color: #741E19;
+	margin-bottom: 70px;
+}
+
+#heroLogo
+{
+	margin-bottom: 63px;
+}
+
+#showcaseSmall
+{
+	min-width: 81px;
+	min-height: 234px;
+}
+
+#showcaseLarge
+{
+	min-width: 234px;
+	min-height: 234px;
+}
+
+#portfolioOne
+{
+	margin-bottom: 100px;
+}
