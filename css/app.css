@@ -29,7 +29,7 @@ p
 .portContentFill
 {
 	background-color: white;
-	height: 50px;
+	height: 100px;
 }
 
 #headerBlue
@@ -57,7 +57,9 @@ p
 #heroLogo
 {
 	margin-bottom: 63px;
+	max-width: 600px;
 }
+
 
 #showcaseSmall
 {
@@ -117,6 +119,12 @@ p
 	margin-top: 86px;
 	margin-bottom: 78px;
 }
+
+.portfolio
+{
+	float: left;
+}
+
 	  
 	  
 	
