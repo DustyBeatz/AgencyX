@@ -36,6 +36,7 @@ p
 {
 	height: 55px;
 	background-color: #171C25;
+	padding: 0;
 }
 
 #headerLogo
@@ -43,6 +44,11 @@ p
 	display: block; /*need to do this to center*/
 	max-width: 100px;
 	margin: 0 auto;
+}
+
+#headerLogo img
+{
+	padding: 0 0 0 0;
 	margin-top: 13px;
 }
 
@@ -123,6 +129,7 @@ p
 .portfolio
 {
 	float: left;
+	margin-bottom: 45px;
 }
 
 	  
