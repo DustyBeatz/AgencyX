@@ -32,6 +32,24 @@ p
 	height: 100px;
 }
 
+.portContentFillReece
+{
+	background-color:#171C25;
+	height: 80px;
+}
+
+.portContentFillReece h2
+{
+	color: #f2f4f1;
+	letter-spacing: 0;
+}
+
+.portContentFillJay
+{
+	background-color: #741E19;
+	height: 80px;
+}
+
 #headerBlue
 {
 	height: 55px;
@@ -130,6 +148,11 @@ p
 {
 	float: left;
 	margin-bottom: 45px;
+}
+
+.video
+{
+	padding: 0 0 0 0;
 }
 
 	  
