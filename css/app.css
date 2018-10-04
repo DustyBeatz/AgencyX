@@ -1,13 +1,35 @@
-
 #container
 {
 	margin: 0 auto;
 	background-color: #f2f4f1;
 }
 
+h2
+{
+	font-family: 'Josefin Sans', Arial, Helvetica, sans-serif;
+	font-size: 1.250em;
+	color: #171C25;
+	letter-spacing: 0.4em;
+}
+
+h3
+{
+	font-family: 'Josefin Sans', Arial, Helvetica, sans-serif;
+	font-size: 1em;
+	color: #171C25;
+	letter-spacing: 0.05em;
+}
+
+p
+{
+	font-family: 'Josefin Sans', Arial, Helvetica, sans-serif;
+	font-size: 0.750em;
+}
+
 .portContentFill
 {
 	background-color: white;
+	height: 50px;
 }
 
 #headerBlue
@@ -21,12 +43,12 @@
 	display: block; /*need to do this to center*/
 	max-width: 100px;
 	margin: 0 auto;
-	margin-top: 10px;
+	margin-top: 13px;
 }
 
 .headerRed
 {
-	height: 13px;
+	height: 12px;
 	background-color: #741E19;
 	margin-bottom: 70px;
 }
@@ -38,17 +60,63 @@
 
 #showcaseSmall
 {
-	min-width: 81px;
 	min-height: 234px;
 }
 
 #showcaseLarge
 {
-	min-width: 234px;
 	min-height: 234px;
 }
 
 #portfolioOne
 {
 	margin-bottom: 100px;
+	margin: 0 auto;
+	background-color: #f2f4f1;
 }
+
+#whoAreThey
+{ 
+	display: block;
+	margin: 0 auto;
+	margin-top: 55px;
+}
+
+#reece
+{
+	margin-top: 58px;
+	margin-bottom: 53px;
+}
+
+#reecePort
+{
+	margin-bottom: 86px;
+}
+
+#jay
+{
+	margin-bottom: 53px;
+}
+
+#footer
+{
+	height: 25px;
+	background-color: #171C25;
+	margin-top: 35px;
+}
+
+#tagline
+{
+	display: block;
+	margin: 0 auto;
+}
+
+#designText
+{
+	margin-top: 86px;
+	margin-bottom: 78px;
+}
+	  
+	  
+	
+
