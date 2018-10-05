@@ -7,8 +7,8 @@
 	<title>AgencyX</title>
     <link rel="stylesheet" href="css/foundation.css">
 	<link href="https://fonts.googleapis.com/css?family=Josefin+Sans" rel="stylesheet">
-	<link rel="lightbox" href="css/bootstrap-lightbox.css">
-	<script src="js/bootstrap-lightbox.js"></script>
+
+	
 	<!-- no more CSS Reset, foundation uses normalize.css -->
 	<link rel="stylesheet" href="css/app.css">
 	
@@ -81,8 +81,8 @@
 			
 			<section class="small-12 medium-4 columns portfolio">
 				<h3 class="hide">Portfolio Piece 2</h3>
-				<div class="portContentFillReece">
-					<h2 class="text-center">3D RENDER</h2>
+				<div>
+					<img src="images/rd_graffiti_img.jpg">
 				</div>
 			</section>
 			<section class="small-12 medium-4 columns portfolio">
@@ -151,6 +151,14 @@
     <script src="js/vendor/jquery.js"></script>
     <script src="js/vendor/what-input.js"></script>
     <script src="js/vendor/foundation.js"></script>
-    <script src="js/app.js"></script>
+	<script src="js/app.js"></script>
+
+
+	<script>$(document).on('click', '[data-toggle="lightbox"]', function(event) {
+		event.preventDefault();
+		$(this).ekkoLightbox();
+	});
+	</script>
+
   </body>
 </html>
