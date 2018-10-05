@@ -3,6 +3,12 @@
 	margin: 0 auto;
 	background-color: #f2f4f1;
 }
+ul
+{
+	display:inline;
+	list-style: none;
+
+}
 
 h2
 {
@@ -138,11 +144,19 @@ p
 	margin-bottom: 78px;
 }
 
+.portfolio li{
+	display: inline;
+	list-style-type: none;
+	padding-right: 20px;
+	float: left;
+}
+
 .portfolio
 {
 	float: left;
 	margin-bottom: 45px;
 }
+
 
 .video
 {
