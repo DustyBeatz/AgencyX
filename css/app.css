@@ -26,11 +26,6 @@ p
 	font-size: 0.750em;
 }
 
-.portContentFill
-{
-	background-color: white;
-	height: 100px;
-}
 
 .portContentFillReece
 {
@@ -89,7 +84,8 @@ p
 {
 	min-height: 200px;
 	min-width: 200px;
-	margin-top: 34px;
+	max-width: 600px;
+	margin-top: 43px;
 }
 
 #showcaseLarge
@@ -138,10 +134,6 @@ p
 {
 	display: block;
 	margin: 0 auto;
-}
-
-#designText
-{
 	margin-top: 86px;
 	margin-bottom: 78px;
 }
@@ -157,6 +149,18 @@ p
 	padding: 0 0 0 0;
 }
 
+#digiTattoo
+{
+	display: block;
+	margin: 0 auto;
+	max-width: 300px;
+}
+
+
+@media screen and (max-width: 500px){
+
+
+}
 	  
 	  
 	
