@@ -85,9 +85,11 @@ p
 }
 
 
-#showcaseSmall
+#showcaseSmall img
 {
-	min-height: 234px;
+	min-height: 200px;
+	min-width: 200px;
+	margin-top: 34px;
 }
 
 #showcaseLarge
